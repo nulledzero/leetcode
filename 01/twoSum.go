@@ -1,7 +1,5 @@
 package main
 
-import "fmt"
-
 func twoSum(nums []int, target int) []int {
 	hashMap := make(map[int]int)
 	for index, elem := range nums {
@@ -13,11 +11,4 @@ func twoSum(nums []int, target int) []int {
 		}
 	}
 	return []int{}
-}
-
-func main() {
-	array := []int{-1, -2, -3, -4, -5}
-	target := -8
-
-	fmt.Println(twoSum(array, target))
 }
