@@ -7,7 +7,7 @@
 
 **14. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/):** [Go](14/prefix.go)
 
-**20. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/):** [Go](20/validParentheses.go)
+**20. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/):** [Go](validParentheses/validParentheses.go)
 
 **26. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/):** [Go](removeDuplicates/removeDuplicates.go)
 
