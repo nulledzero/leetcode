@@ -3,7 +3,7 @@
   
 **09. [Palindrome Number](https://leetcode.com/problems/palindrome-number/):** [Go](palindrome/palindrome.go)
 
-**13. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/):** [Go](13/romanToInt.go)
+**13. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/):** [Go](romanToInt/romanToInt.go)
 
 **14. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/):** [Go](14/prefix.go)
 
