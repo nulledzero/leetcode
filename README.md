@@ -13,4 +13,4 @@
 
 **110. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/):** [Go](110/isBalanced.go)
 
-**206. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/):** [Go](206/reverseList.go)
+**206. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/):** [Go](reverseList/reverseList.go)
