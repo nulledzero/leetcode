@@ -1,5 +1,5 @@
 ## Leetcode problems
-**01. [Two Sum](https://leetcode.com/problems/two-sum/):** [Go](01/twoSum.go)
+**01. [Two Sum](https://leetcode.com/problems/two-sum/):** [Go](twoSum/twoSum.go)
   
 **09. [Palindrome Number](https://leetcode.com/problems/palindrome-number/):** [Go](09/palindrome.go)
 
