@@ -13,6 +13,8 @@
 
 **26. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/):** [Go](removeDuplicates/removeDuplicates.go)
 
+**35. [Search Insert Position](https://leetcode.com/problems/search-insert-position/):** [Go](searchInsert/searchInsert.go)
+
 **110. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/):** [Go](isBalanced/isBalanced.go)
 
 **206. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/):** [Go](reverseList/reverseList.go)
