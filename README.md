@@ -5,7 +5,7 @@
 
 **13. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/):** [Go](romanToInt/romanToInt.go)
 
-**14. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/):** [Go](14/prefix.go)
+**14. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/):** [Go](prefix/prefix.go)
 
 **20. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/):** [Go](validParentheses/validParentheses.go)
 
