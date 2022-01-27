@@ -1,7 +1,5 @@
 package main
 
-import "fmt"
-
 func romanToInt(s string) int {
 	roman := map[rune]int{
 		'I': 1,
@@ -25,8 +23,4 @@ func romanToInt(s string) int {
 		prev = value
 	}
 	return sum
-}
-
-func main() {
-	fmt.Println(romanToInt("MCMXCIV"))
 }
