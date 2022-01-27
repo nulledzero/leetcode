@@ -16,8 +16,3 @@ func isPalindrome(x int) bool {
 	}
 	return true
 }
-
-func main() {
-	palindrome := 121
-	fmt.Println(isPalindrome(palindrome))
-}
