@@ -1,7 +1,7 @@
 ## Leetcode problems
 **01. [Two Sum](https://leetcode.com/problems/two-sum/):** [Go](twoSum/twoSum.go)
   
-**09. [Palindrome Number](https://leetcode.com/problems/palindrome-number/):** [Go](09/palindrome.go)
+**09. [Palindrome Number](https://leetcode.com/problems/palindrome-number/):** [Go](palindrome/palindrome.go)
 
 **13. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/):** [Go](13/romanToInt.go)
 
