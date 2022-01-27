@@ -1,7 +1,5 @@
 package main
 
-import "fmt"
-
 type Node struct {
 	data rune
 	next *Node
@@ -37,9 +35,4 @@ func isValid(s string) bool {
 		list.insert(elem)
 	}
 	return list.last == nil
-}
-
-func main() {
-	input := "()[]{}"
-	fmt.Println(isValid(input))
 }
