@@ -1,7 +1,5 @@
 package main
 
-import "fmt"
-
 func removeDuplicates(nums []int) int {
 	k := 0
 	ln := len(nums)
@@ -15,9 +13,4 @@ func removeDuplicates(nums []int) int {
 		k += 1
 	}
 	return k
-}
-
-func main() {
-	array := []int{1, 1, 1, 2}
-	fmt.Println(removeDuplicates(array))
 }
