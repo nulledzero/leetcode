@@ -1,10 +1,5 @@
 package main
 
-import (
-	"fmt"
-	"strconv"
-)
-
 type TreeNode struct {
 	Val   int
 	Left  *TreeNode
@@ -44,24 +39,4 @@ func isBalanced(root *TreeNode) bool {
 		return result
 	}
 	return true
-}
-
-func createNode(arr []string, index int) *TreeNode {
-	if index >= len(arr) {
-		return nil
-	}
-	value, err := strconv.Atoi(arr[index])
-	if err != nil {
-		return nil
-	}
-	node := &TreeNode{Val: value}
-	node.Right = createNode(arr, index*2+2)
-	node.Left = createNode(arr, index*2+1)
-	return node
-}
-
-func main() {
-	array := []string{"3", "9", "20", "null", "null", "15", "7"}
-	root := createNode(array, 0)
-	fmt.Println(isBalanced(root))
 }
