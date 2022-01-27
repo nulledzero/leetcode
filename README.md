@@ -9,7 +9,7 @@
 
 **20. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/):** [Go](20/validParentheses.go)
 
-**26. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/):** [Go](26/removeDuplicates.go)
+**26. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/):** [Go](removeDuplicates/removeDuplicates.go)
 
 **110. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/):** [Go](isBalanced/isBalanced.go)
 
