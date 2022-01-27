@@ -11,6 +11,6 @@
 
 **26. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/):** [Go](26/removeDuplicates.go)
 
-**110. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/):** [Go](110/isBalanced.go)
+**110. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/):** [Go](isBalanced/isBalanced.go)
 
 **206. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/):** [Go](reverseList/reverseList.go)
