@@ -9,6 +9,8 @@
 
 **20. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/):** [Go](validParentheses/validParentheses.go)
 
+**21. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/):** [Go](mergeLists/mergeLists.go)
+
 **26. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/):** [Go](removeDuplicates/removeDuplicates.go)
 
 **110. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/):** [Go](isBalanced/isBalanced.go)
