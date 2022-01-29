@@ -7,6 +7,7 @@
 **21. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/):** [Go](mergeLists/mergeLists.go) \
 **26. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/):** [Go](removeDuplicates/removeDuplicates.go) \
 **35. [Search Insert Position](https://leetcode.com/problems/search-insert-position/):** [Go](searchInsert/searchInsert.go) \
+**94. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/):** [Go](inorderTraversal/inorderTraversal.go) \
 **110. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/):** [Go](isBalanced/isBalanced.go) \
 **206. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/):** [Go](reverseList/reverseList.go) \
 **278. [First Bad Version](https://leetcode.com/problems/first-bad-version/):** [Go](firstBadVersion/firstBadVersion.go) \
