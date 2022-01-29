@@ -1,6 +1,9 @@
 package main
 
-import "testing"
+import (
+	"reflect"
+	"testing"
+)
 
 func Test_rotate(t *testing.T) {
 	tests := []struct {
@@ -18,11 +21,8 @@ func Test_rotate(t *testing.T) {
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
 			rotate(tt.nums, tt.k)
-			for i := 0; i < tt.k%len(tt.nums); i++ {
-				if tt.nums[i] != tt.want[i] {
-					t.Errorf("rotate() = %v, want %v", tt.nums, tt.want)
-					break
-				}
+			if !reflect.DeepEqual(tt.nums, tt.want) {
+				t.Errorf("rotate() = %v, want %v", tt.nums, tt.want)
 			}
 		})
 	}
