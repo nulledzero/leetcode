@@ -10,4 +10,5 @@
 **110. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/):** [Go](isBalanced/isBalanced.go) \
 **206. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/):** [Go](reverseList/reverseList.go) \
 **278. [First Bad Version](https://leetcode.com/problems/first-bad-version/):** [Go](firstBadVersion/firstBadVersion.go) \
-**704. [Binary Search](https://leetcode.com/problems/binary-search/):** [Go](binarySearch/binarySearch.go)
+**704. [Binary Search](https://leetcode.com/problems/binary-search/):** [Go](binarySearch/binarySearch.go) \
+**977. [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/):** [Go](sortedSquares/sortedSquares.go)
