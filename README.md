@@ -9,6 +9,7 @@
 **35. [Search Insert Position](https://leetcode.com/problems/search-insert-position/):** [Go](searchInsert/searchInsert.go) \
 **94. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/):** [Go](inorderTraversal/inorderTraversal.go) \
 **110. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/):** [Go](isBalanced/isBalanced.go) \
+**189. [Rotate Array](https://leetcode.com/problems/rotate-array/):** [Go](rotateArray/rotateArray.go) \
 **206. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/):** [Go](reverseList/reverseList.go) \
 **278. [First Bad Version](https://leetcode.com/problems/first-bad-version/):** [Go](firstBadVersion/firstBadVersion.go) \
 **704. [Binary Search](https://leetcode.com/problems/binary-search/):** [Go](binarySearch/binarySearch.go) \
