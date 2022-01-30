@@ -22,4 +22,5 @@
 - 704\. [Binary Search](https://leetcode.com/problems/binary-search/): [Go](go/easy/binarySearch/binarySearch.go)
 - 977\. [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/): [Go](go/easy/sortedSquares/sortedSquares.go)
 ### Medium:
+- 2\. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/): [Go](go/medium/addTwoNumbers/addTwoNumbers.go)
 - 189\. [Rotate Array](https://leetcode.com/problems/rotate-array/): [Go](go/medium/rotateArray/rotateArray.go)
