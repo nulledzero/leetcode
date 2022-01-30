@@ -9,6 +9,7 @@
 - 21\. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/): [Go](go/easy/mergeLists/mergeLists.go)
 - 26\. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/): [Go](go/easy/removeDuplicates/removeDuplicates.go)
 - 35\. [Search Insert Position](https://leetcode.com/problems/search-insert-position/): [Go](go/easy/searchInsert/searchInsert.go)
+- 53\. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/): [Go](go/easy/maxSubarray/maxSubarray.go)
 - 94\. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/): [Go](go/easy/inorderTraversal/inorderTraversal.go)
 - 110\. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/): [Go](go/easy/isBalanced/isBalanced.go)
 - 167\. [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/): [Go](go/easy/twoSumII/twoSumII.go)
