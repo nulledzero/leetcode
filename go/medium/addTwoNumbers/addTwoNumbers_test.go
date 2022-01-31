@@ -22,7 +22,8 @@ func Test_addTwoNumbers(t *testing.T) {
 		want *ListNode
 	}{
 		{"case0", createList([]int{3, 4, 2}), createList([]int{4, 6, 5}), createList([]int{8, 0, 7})},
-		{"case1", createList([]int{1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1}), createList([]int{5, 6, 4}), createList([]int{6, 6, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1})},
+		{"case1", createList([]int{9, 9, 9, 9, 9, 9, 9}), createList([]int{9, 9, 9, 9}), createList([]int{1, 0, 0, 0, 9, 9, 9, 8})},
+		{"case2", createList([]int{1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1}), createList([]int{4, 6, 5}), createList([]int{1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 6, 6})},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
