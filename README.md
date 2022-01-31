@@ -20,6 +20,7 @@
 - 344\. [Reverse String](https://leetcode.com/problems/reverse-string/): [Go](go/easy/reverseString/reverseString.go)
 - 557\. [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/): [Go](go/easy/reverseWordsIII/reverseWordsIII.go)
 - 704\. [Binary Search](https://leetcode.com/problems/binary-search/): [Go](go/easy/binarySearch/binarySearch.go)
+- 876\. [Middle of a Linked List](https://leetcode.com/problems/middle-of-the-linked-list/): [Go](go/easy/middleOfList/middleOfList.go)
 - 977\. [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/): [Go](go/easy/sortedSquares/sortedSquares.go)
 - 1672\. [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/): [Go](go/easy/maxWealth/maxWealth.go)
 ### Medium:
