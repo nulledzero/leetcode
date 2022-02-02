@@ -27,4 +27,5 @@
 - 1672\. [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/): [Go](go/easy/maxWealth/maxWealth.go)
 ### Medium:
 - 2\. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/): [Go](go/medium/addTwoNumbers/addTwoNumbers.go)
+- 19\. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/): [Go](go/medium/removeNthNode/removeNthNode.go)
 - 189\. [Rotate Array](https://leetcode.com/problems/rotate-array/): [Go](go/medium/rotateArray/rotateArray.go)
