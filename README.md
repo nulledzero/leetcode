@@ -11,6 +11,7 @@
 - 35\. [Search Insert Position](https://leetcode.com/problems/search-insert-position/): [Go](go/easy/searchInsert/searchInsert.go) | [Java](java/easy/SearchInsert/SearchInsert.java)
 - 53\. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/): [Go](go/easy/maxSubarray/maxSubarray.go)
 - 94\. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/): [Go](go/easy/inorderTraversal/inorderTraversal.go)
+- 104\. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/): [Go](go/easy/maxDepth/maxDepth.go)
 - 110\. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/): [Go](go/easy/isBalanced/isBalanced.go)
 - 121\. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/): [Go](go/easy/maxProfit/maxProfit.go)
 - 141\. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/): [Go](go/easy/linkedListCycle/linkedListCycle.go)
