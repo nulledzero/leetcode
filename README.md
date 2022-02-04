@@ -18,7 +18,7 @@
 - 141\. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/): [Go](go/easy/linkedListCycle/linkedListCycle.go)
 - 167\. [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/): [Go](go/easy/twoSumII/twoSumII.go)
 - 206\. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/): [Go](go/easy/reverseList/reverseList.go)
-- 217\. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/): [Go](go/easy/containsDuplicate/containsDuplicate.go)
+- 217\. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/): [Go](go/easy/containsDuplicate/containsDuplicate.go) | [Java](java/easy/ContainsDuplicate/ContainsDuplicate.java)
 - 278\. [First Bad Version](https://leetcode.com/problems/first-bad-version/): [Go](go/easy/firstBadVersion/firstBadVersion.go)
 - 283\. [Move Zeroes](https://leetcode.com/problems/move-zeroes/): [Go](go/easy/moveZeroes/moveZeroes.go)
 - 344\. [Reverse String](https://leetcode.com/problems/reverse-string/): [Go](go/easy/reverseString/reverseString.go)
