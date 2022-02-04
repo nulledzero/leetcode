@@ -14,6 +14,7 @@
 - 104\. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/): [Go](go/easy/maxDepth/maxDepth.go)
 - 110\. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/): [Go](go/easy/isBalanced/isBalanced.go)
 - 121\. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/): [Go](go/easy/maxProfit/maxProfit.go)
+- 136\. [Single Number](https://leetcode.com/problems/single-number/): [Go](go/easy/singleNumber/singleNumber.go)
 - 141\. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/): [Go](go/easy/linkedListCycle/linkedListCycle.go)
 - 167\. [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/): [Go](go/easy/twoSumII/twoSumII.go)
 - 206\. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/): [Go](go/easy/reverseList/reverseList.go)
