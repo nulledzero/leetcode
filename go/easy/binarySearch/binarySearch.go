@@ -3,7 +3,6 @@ package main
 func search(nums []int, target int) int {
 	min := 0
 	max := len(nums) - 1
-	result := -1
 
 	for min <= max {
 		mid := (min + max) / 2
@@ -16,5 +15,5 @@ func search(nums []int, target int) int {
 		}
 	}
 
-	return result
+	return -1
 }
